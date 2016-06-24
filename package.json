@@ -1,22 +1,19 @@
 {
-  "name": "tessel_hackacthon",
-  "version": "1.0.0",
-  "description": "wootish_boss",
+  "name": "wotish",
+  "version": "0.0.0",
+  "description": "Tessel project",
   "main": "accl.js",
-  "scripts": {
-    "test": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mosane/wotish.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mosane/wotish/issues"
-  },
-  "homepage": "https://github.com/mosane/wotish#readme",
   "dependencies": {
     "accel-mma84": "^0.2.4"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/mosane/wotish.git",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script."
 }
