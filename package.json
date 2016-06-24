@@ -1,0 +1,22 @@
+{
+  "name": "tessel_hackacthon",
+  "version": "1.0.0",
+  "description": "wootish_boss",
+  "main": "accl.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosane/wotish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosane/wotish/issues"
+  },
+  "homepage": "https://github.com/mosane/wotish#readme",
+  "dependencies": {
+    "accel-mma84": "^0.2.4"
+  }
+}
