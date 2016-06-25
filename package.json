@@ -4,7 +4,9 @@
   "description": "Tessel project",
   "main": "accl.js",
   "dependencies": {
-    "accel-mma84": "^0.2.4"
+    "accel-mma84": "^0.2.4",
+    "play-sound": "0.0.9",
+    "tessel-av": "^0.7.0"
   },
   "devDependencies": {},
   "scripts": {
